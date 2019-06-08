@@ -1,0 +1,4 @@
+ElvUI_EverySecondCounts: disabled
+KeyBind: disabled
+KBEdit: disabled
+SexyMap: disabled

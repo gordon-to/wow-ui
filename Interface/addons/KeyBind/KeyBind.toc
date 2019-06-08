@@ -1,0 +1,15 @@
+## Interface: 70000
+## Title: KeyBind
+## Author: Kraftman
+## Version 2.0 Release 
+## Notes: Easy key binder GUI
+## SavedVariablesPerCharacter: KeyBindSettings
+
+
+Layouts.lua
+KeyBind.lua
+UIKeyboard.lua
+UIControls.lua
+UIMouse.lua
+UINewButton.lua
+tooltip.lua

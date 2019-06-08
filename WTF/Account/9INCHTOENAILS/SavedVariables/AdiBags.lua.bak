@@ -1,0 +1,97 @@
+
+AdiBagsDB = {
+	["namespaces"] = {
+		["FilterOverride"] = {
+			["profiles"] = {
+				["Default"] = {
+					["version"] = 3,
+				},
+			},
+		},
+		["Cata"] = {
+		},
+		["WoW"] = {
+		},
+		["TBC"] = {
+		},
+		["DataSource"] = {
+		},
+		["Junk"] = {
+		},
+		["BfA"] = {
+		},
+		["MoneyFrame"] = {
+		},
+		["Artifact Power Currency"] = {
+		},
+		["ItemCategory"] = {
+		},
+		["Equipment"] = {
+		},
+		["NewItem"] = {
+		},
+		["MoP"] = {
+		},
+		["AdiBags_TooltipInfo"] = {
+		},
+		["Legion"] = {
+		},
+		["Wrath"] = {
+		},
+		["ItemLevel"] = {
+		},
+		["CurrencyFrame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["shown"] = {
+						["Mark of the World Tree"] = false,
+						["Ironpaw Token"] = false,
+						["Tol Barad Commendation"] = false,
+						["Nethershard"] = false,
+						["Seal of Broken Fate"] = false,
+						["Champion's Seal"] = false,
+						["Lesser Charm of Good Fortune"] = false,
+						["Curious Coin"] = false,
+						["Order Resources"] = false,
+						["Spirit Shard"] = false,
+						["Warforged Seal"] = false,
+						["Veiled Argunite"] = false,
+						["Garrison Resources"] = false,
+						["Mogu Rune of Fate"] = false,
+						["War Resources"] = false,
+						["Oil"] = false,
+						["Seafarer's Dubloon"] = false,
+						["Elder Charm of Good Fortune"] = false,
+						["Timeless Coin"] = false,
+						["Epicurean's Award"] = false,
+						["Timeworn Artifact"] = false,
+						["Sightless Eye"] = false,
+						["Wakening Essence"] = false,
+						["Seal of Tempered Fate"] = false,
+						["Apexis Crystal"] = false,
+						["Ancient Mana"] = false,
+						["Mote of Darkness"] = false,
+						["Seal of Inevitable Fate"] = false,
+						["Titan Residuum"] = false,
+						["Lingering Soul Fragment"] = false,
+						["Legionfall War Supplies"] = false,
+					},
+				},
+			},
+		},
+		["WoD"] = {
+		},
+		["ItemSets"] = {
+		},
+		["Hearthstones"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Dabuogar - Icecrown"] = "Default",
+		["Caïman - Icecrown"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

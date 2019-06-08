@@ -1,0 +1,36 @@
+VER 3 0100000000000006 "aoe" "INV_MISC_QUESTIONMARK"
+/cast [btn:1] Thrash; [btn:2] Swipe
+#showtooltip
+END
+VER 3 0100000000000007 "defense" "INV_MISC_QUESTIONMARK"
+/cast [btn:1] Bristling Fur; [btn:2] Survival Instincts
+#showtooltip
+END
+VER 3 0100000000000008 "dot" "INV_MISC_QUESTIONMARK"
+/cast [btn:1] Lacerate; [btn:2] Thrash
+#showtooltip
+END
+VER 3 0100000000000005 "Finish" "INV_MISC_QUESTIONMARK"
+/cast [btn:1] Rip; [btn:2] Savage Roar
+#showtooltip
+END
+VER 3 0100000000000001 "hbCrashProt_0" "Ability_Creature_Disease_02"
+1:N
+END
+VER 3 0100000000000002 "hbCrashProt_1" "Ability_Creature_Disease_02"
+Bõ:p:0280000002CD3B89:
+END
+VER 3 0100000000000009 "Mangle" "INV_MISC_QUESTIONMARK"
+/cast [btn:1] Mangle; [btn:2] Maul
+#showtooltip
+END
+VER 3 010000000000000A "Rage" "INV_MISC_QUESTIONMARK"
+/cast [btn:1] Frenzied Regeneration; [btn:2] Savage Defense
+#showtooltip
+END
+VER 3 0100000000000003 "VuhDoDCShieldData" "Ability_Repair"
+P1HR1SR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DT0__[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000004 "VuhDoDCShieldNames" "Ability_Repair"
+NPipPop[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]BõvLig[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

@@ -1,0 +1,22 @@
+
+TukuiConfigShared = {
+	["Icecrown"] = {
+		["Dabuogar"] = {
+			["ActionBars"] = {
+				["HotKey"] = true,
+				["Macro"] = true,
+			},
+		},
+		["Caïman"] = {
+			["ActionBars"] = {
+				["Macro"] = true,
+				["HotKey"] = true,
+				["Font"] = "Pixel",
+				["HideBackdrop"] = true,
+			},
+		},
+	},
+	["Account"] = {
+	},
+}
+TukuiConfigPerAccount = nil

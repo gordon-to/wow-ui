@@ -1,0 +1,6 @@
+WorldQuestTracker: disabled
+AdiBags_Artifact_Weapons: disabled
+MasterPlan: disabled
+MasterPlanA: disabled
+TomTom: disabled
+AddOnSkins: disabled

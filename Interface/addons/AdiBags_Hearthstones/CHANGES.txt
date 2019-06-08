@@ -1,0 +1,18 @@
+------------------------------------------------------------------------
+r34 | myrroddin | 2019-05-10 18:39:56 +0000 (Fri, 10 May 2019) | 5 lines
+Changed paths:
+   D /trunk/.pkgmeta
+   M /trunk/AdiBags_Hearthstones.lua
+   M /trunk/AdiBags_Hearthstones.toc
+   M /trunk/License.txt
+   M /trunk/Localization.lua
+   A /trunk/pkgmeta.yaml
+   M /trunk/supported_items.md
+
+- Switch to pkgmeta.yaml because my editor likes file extensions
+- Update ToC and License.txt
+- Add BfA items
+- Simplify translations
+- Reduce UI clutter
+------------------------------------------------------------------------
+

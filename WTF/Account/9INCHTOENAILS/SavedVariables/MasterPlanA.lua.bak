@@ -1,0 +1,13 @@
+
+MasterPlanAG = {
+	["Icecrown"] = {
+		["Dabuogar"] = {
+			["class"] = "WARRIOR",
+			["faction"] = "Horde",
+		},
+		["Caïman"] = {
+			["faction"] = "Horde",
+			["class"] = "SHAMAN",
+		},
+	},
+}

@@ -1,0 +1,9 @@
+VER 3 000000000000001A "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+/script print('no button yet')
+END
+VER 3 0000000000000019 "Decursive" "INV_Misc_QuestionMark"
+/script DecursiveRootTable.Dcr:Println('No spell available')
+END
+VER 3 0000000000000018 "PETBAR" "Ability_Ambush"
+/castsequence showpet, hidepet
+END

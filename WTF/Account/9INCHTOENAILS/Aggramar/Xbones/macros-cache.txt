@@ -1,0 +1,17 @@
+VER 3 0100000000000005 "DCHeal" "INV_Misc_QuestionMark"
+#showtooltip Lichborne
+/cast Lichborne;
+/cast [@player] Death Coil
+END
+VER 3 0100000000000001 "hbCrashProt_0" "Ability_Creature_Disease_02"
+1:N
+END
+VER 3 0100000000000002 "hbCrashProt_1" "Ability_Creature_Disease_02"
+Xbo:p:02800000022E2EAE:
+END
+VER 3 0100000000000003 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1EM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000004 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Xbo[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
